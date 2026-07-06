@@ -6,5 +6,6 @@ Solving the Striver's DSA Sheet with consistent daily uploads. Tracking my probl
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
