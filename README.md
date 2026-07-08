@@ -12,6 +12,7 @@ Solving the Striver's DSA Sheet with consistent daily uploads. Tracking my probl
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/brinda410/dsa-a2z-tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |
