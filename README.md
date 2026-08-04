@@ -12,6 +12,7 @@ Solving the Striver's DSA Sheet with consistent daily uploads. Tracking my probl
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0283-move-zeroes) |
@@ -22,4 +23,8 @@ Solving the Striver's DSA Sheet with consistent daily uploads. Tracking my probl
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0283-move-zeroes) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
