@@ -9,6 +9,7 @@ Solving the Striver's DSA Sheet with consistent daily uploads. Tracking my probl
 | [0007-reverse-integer](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0877-stone-game) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ Solving the Striver's DSA Sheet with consistent daily uploads. Tracking my probl
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0877-stone-game) |
 ## Minimax
 |  |
@@ -59,4 +61,12 @@ Solving the Striver's DSA Sheet with consistent daily uploads. Tracking my probl
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0125-valid-palindrome) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
