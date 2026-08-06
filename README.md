@@ -24,6 +24,7 @@ Solving the Striver's DSA Sheet with consistent daily uploads. Tracking my probl
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -54,4 +55,8 @@ Solving the Striver's DSA Sheet with consistent daily uploads. Tracking my probl
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/brinda410/dsa-a2z-tracker/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/brinda410/dsa-a2z-tracker/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
